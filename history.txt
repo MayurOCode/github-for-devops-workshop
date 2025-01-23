@@ -1,0 +1,14 @@
+2 git pull origin master
+   3 git branch
+   4 git branch dev
+   5 git branch
+   6 git switch dev
+   7 git branch
+   8 git status
+   9 git add mayur.py
+  10 git commit -m "mera naam"
+  11 git status
+  12 git log
+  13 git log --oneline
+  14 git status
+  15 git push origin dev
